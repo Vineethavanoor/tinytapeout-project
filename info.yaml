@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      "Tiny Tapeout Project"
-  author:       ""       "Vineet V Havanur"
+  title:        "Tiny Tapeout Project"
+  author:       "Vineet V Havanur"
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      "Digital ASIC design project"
+  description:  "Digital ASIC design project"
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
